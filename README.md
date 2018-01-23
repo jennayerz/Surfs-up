@@ -60,8 +60,6 @@ You are now ready to use Python and SQLAlchemy to do basic climate analysis and 
 
 * Plot the results using the DataFrame `plot` method.
 
-<center><img src='images/precip.png' /></center>
-
 * Use Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
@@ -80,8 +78,6 @@ You are now ready to use Python and SQLAlchemy to do basic climate analysis and 
 
   * Plot the results as a histogram with `bins=12`.
 
-  <center><img src='images/temp_hist.png' height="400px" /></center>
-
 ### Temperature Analysis
 
 * Write a function called `calc_temps` that will accept a start date and end date in the format `%Y-%m-%d` and return the minimum, average, and maximum temperatures for that range of dates.
@@ -93,8 +89,6 @@ You are now ready to use Python and SQLAlchemy to do basic climate analysis and 
   * Use the average temperature as the bar height.
 
   * Use the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
-
-<center><img src='images/temp_avg.png' height="400px"/></center>
 
 
 ### Optional Recommended Analysis
@@ -112,8 +106,6 @@ You are now ready to use Python and SQLAlchemy to do basic climate analysis and 
   * Load the list of daily normals into a Pandas DataFrame and set the index equal to the date.
 
   * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
-
-  <center><img src="images/daily_normals.png" /></center>
 
 ---
 
