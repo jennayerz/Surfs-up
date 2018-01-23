@@ -2,7 +2,7 @@
 # Surfs Up!
 <!--lint enable no-heading-punctuation-->
 
-<img src='/Users/Desktop/surfing.jpeg' />
+<img src='/Users/jenny/Desktop/surfing.jpeg' />
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you decided to do some climate analysis on the area. Because you are such an awesome person, you have decided to share your ninja analytical skills with the community by providing a climate analysis api. The following outlines what you need to do.
 
